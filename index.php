@@ -1,7 +1,7 @@
 <?php
 // index.php
 
-require_once 'buscaminas.php';
+require_once 'Buscaminas.php';
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['accion'])) {
     header('Content-Type: application/json');
