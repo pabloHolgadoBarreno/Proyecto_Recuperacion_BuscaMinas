@@ -1,0 +1,13 @@
+{
+    "name": "root/buscaminas",
+    "require-dev": {
+        "phpunit/phpunit": "^10.5"
+    },
+    "authors": [
+        {
+            "name": "pabloHolgadoBarreno",
+            "email": "poloko1223@gmail.com"
+        }
+    ],
+    "require": {}
+}
